@@ -128,12 +128,6 @@ def static_proxy(path):
 
 ---
 
-## 📄 License
-MIT License © 2025 **Terrindo · BMKG · Meteomodem Collaboration**
-
----
-
-### 🌐 Maintained by
-**Rason Monitoring Project**  
-> Developed by Terrindo · Supported by BMKG Upper-Air Division  
-> v2.0 — React + Flask modernization initiative
+Developed by Nanda Miftahul Khoyri
+for Terrindo & BMKG Upper-Air Division
+2025 © All Rights Reserved.
